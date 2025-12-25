@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "夜明けのブレス",
+  "base_artist": "チェッカーズ",
+  "createdAt": "2025-12-25T00:22:28.901409Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夜明けのブレス",
+      "artist": "THE CHECKERS",
+      "has_synced": true,
+      "path": "select/01_夜明けのブレス_THE_CHECKERS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夜明けのブレス",
+      "artist": "チェッカーズ",
+      "has_synced": false,
+      "path": "select/pl_01_夜明けのブレス_チェッカーズ.txt"
+    }
+  ]
+}
